@@ -4,7 +4,8 @@ An example to get familiarised with [apex/up](https://github.com/apex/up) framew
 
 Make sure you have awscli configured before you start.
 
-To deploy to staging run:
-´´´ Bash
+To deploy to staging run
+
+´´´bash
 up
 ´´´
