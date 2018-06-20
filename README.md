@@ -6,6 +6,6 @@ Make sure you have awscli configured before you start.
 
 To deploy to staging run
 
-´´´bash
+```bash
 up
-´´´
+```
